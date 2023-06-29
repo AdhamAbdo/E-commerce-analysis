@@ -1,5 +1,5 @@
 # Ecommerce
-Ask yourself 15 analystical questions that you belive will help the managers in decision making
+15 analytical questions that will help the managers in decision making
 
 
 ### 1- What are the total Order value for each country
